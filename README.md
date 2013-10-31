@@ -1,3 +1,4 @@
-# POS Receipt Generator #
+CSC202HTMLReceipt
+=================
 
 Generates HTML receipts with images and built-in barcode generator suitable for POS systems.  For CSC202 project.
